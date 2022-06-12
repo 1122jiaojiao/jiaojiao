@@ -2330,6 +2330,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://github.com/1122jiaojiao/jiaojiao/raw/main/0608.jar"
+  "spider": "https://1122jiaojiao.github.io/jiaojiao/0608.jar"
 }
 
