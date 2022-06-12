@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/1122jiaojiao/jiaojiao/raw/main/lezhuyingshi.json"
+      "ext": "https://1122jiaojiao.github.io/jiaojiao/lezhuyingshi.json"
     },
     {
       "key": "csp_biubiu_lgyy",
@@ -144,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/1122jiaojiao/jiaojiao/raw/main/languangyingshi.json"
+      "ext": "https://1122jiaojiao.github.io/jiaojiao/languangyingshi.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/1122jiaojiao/jiaojiao/raw/main/555dianying.json"
+      "ext": "https://1122jiaojiao.github.io/jiaojiao/555dianying.json"
     },
      {
             "key":"csp_XBiubiubiubiu_libvio",
@@ -164,7 +164,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/1122jiaojiao/jiaojiao/raw/main/libvio.json"
+            "ext":"https://1122jiaojiao.github.io/jiaojiao/libvio.json"
         },
         
     {
@@ -185,7 +185,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://github.com/1122jiaojiao/jiaojiao/raw/main/huya.json"
+      "ext": "https://1122jiaojiao.github.io/jiaojiao/huya.json"
     },
     {
       "key": "csp_xpath_qiyou",
@@ -195,7 +195,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/1122jiaojiao/jiaojiao/raw/main/qiyou.json"
+      "ext": "https://1122jiaojiao.github.io/jiaojiao/qiyou.json"
     },
     {
             "key":"csp_XPath_猫群首发",
@@ -205,7 +205,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://github.com/1122jiaojiao/jiaojiao/raw/main/bili.json"
+            "ext":"https://1122jiaojiao.github.io/jiaojiao/bili.json"
         },
     {
       "key": "诺讯采集",
