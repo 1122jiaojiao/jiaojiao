@@ -217,6 +217,15 @@
             "filterable":1,
             "ext":"https://1122jiaojiao.github.io/jiaojiao/bili.json"
         },
+        "key":"csp_xpath_网络搜集库112",
+            "name":"工人",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+        }, 
     {
       "key": "诺讯采集",
       "name": "诺讯采集",
