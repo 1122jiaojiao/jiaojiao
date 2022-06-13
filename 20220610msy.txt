@@ -166,6 +166,16 @@
             "filterable":0,
             "ext":"https://1122jiaojiao.github.io/jiaojiao/libvio.json"
         },
+         {
+            "key":"csp_XBiubiubiubiu_ysgc",
+            "name":"工厂(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://1122jiaojiao.github.io/jiaojiao/ysgc.json"
+        },
         
     {
       "key": "v2_团夕",
