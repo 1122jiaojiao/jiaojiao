@@ -224,7 +224,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://1122jiaojiao.github.io/jiaojiao/gongreng.json"
+            "ext":"https://1122jiaojiao.github.io/jiaojiao/gongren.json"
         }, 
     {
       "key": "诺讯采集",
